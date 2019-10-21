@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3B8DDF</color>
+    <color name="colorPrimaryDark">#3B8DDF</color>
+    <color name="colorAccent">#3B8DDF</color>
+    <color name="menuIconColor">#3399cc</color>
+    <color name="titleColor">#1F1F1F</color>
+    <color name="black">#000000</color>
+    <color name="subContentColor">#808080</color>
+    <color name="orange">#F38A20</color>
+    <color name="green">#30AC83</color>
+    <color name="blue">#0000ff</color>
+    <color name="threeB8DDF">#3B8DDF</color>
+    <color name="lightGray">#cccccc</color>
+    <color name="subTitleBgColor">#F6F7F8</color>
+    <color name="unselectedTabColor">#bfbfbf</color>
+    <color name="searchHintColor">#66CECECE</color>
+    <color name="gray">#F7F7F7</color>
+    <color name="white">#ffffff</color>
+    <color name="ccffff">#99ccffff</color>
+    <color name="ftow">#F2F2F2</color>
+    <color name="esix">#e6e6e6</color>
+    <color name="nine">#999999</color>
+    <color name="FA4C17">#FA4C17</color>
+</resources>

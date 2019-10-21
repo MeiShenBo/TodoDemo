@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="vertical_view">
+        <attr name="top_wh"  format="dimension"/>
+        <attr name="bottom_wh" format="dimension"/>
+        <attr name="content_width" format="dimension"/>
+        <attr name="content_height" format="dimension"/>
+        <attr name="top_color" format="reference"/>
+        <attr name="bottom_color" format="reference"/>
+        <attr name="content_color" format="reference"/>
+        <attr name="topVisibility" format="enum">
+            <enum name="visible" value="0x00000000" />
+            <enum name="gone" value="0x00000008" />
+        </attr>
+        <attr name="bottomVisibility" format="enum">
+            <enum name="visible" value="0x00000000"/>
+            <enum name="gone" value="0x00000008"/>
+        </attr>
+
+    </declare-styleable>
+
+</resources>

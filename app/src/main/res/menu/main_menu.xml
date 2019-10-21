@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item  android:id="@+id/order_todo"
+        android:icon="@mipmap/order"
+        android:title="排序"
+        app:showAsAction="always">
+    </item>
+
+    <item
+        android:id="@+id/add_todo"
+        android:icon="@mipmap/add"
+        android:title="新增"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/setting"
+        android:icon="@mipmap/dian"
+        android:title="设置"
+        app:showAsAction="ifRoom"
+        >
+        <menu>
+        <group>
+            <item android:id="@+id/copy_data"
+                android:title="备份数据"
+                app:showAsAction="never"
+                />
+            <item android:id="@+id/input_data"
+                android:title="导入数据"
+                app:showAsAction="never"
+                />
+
+        </group>
+        </menu>
+    </item>
+</menu>
